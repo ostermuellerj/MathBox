@@ -1,0 +1,183 @@
+h1.indexpg {
+	text-align: center;
+	font-size: 60px;
+	border: 6px solid red;
+    background-color: transparent rgb(255,0,0);
+}
+
+h1.calIIpg {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+    background-color: #FF7E00;
+}
+
+h1.calIpg {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+    background-color: #f44336;
+}
+
+h1.trigpg {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+    background-color: #1EFF11;
+}
+
+h1.geopg {
+	text-align: center;
+	font-size: 30px;
+	color: white;
+    background-color: #1C75E8;
+}
+
+p {
+	text-align: center;
+}
+
+@font-face {
+    font-family: Montserrat;
+    src: url(Montserrat-Regular.otf);
+}
+
+body {
+	font-family: Montserrat;
+	
+}
+
+.pic {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+a.geo {
+background-color: #1C75E8;
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;	
+}
+
+a.trig {
+	background-color: #1EFF11;	
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;	
+}
+
+a.calI {
+	background-color: #f44336;	
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;	
+}
+
+a.calII {
+	background-color: #FF7E00;	
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;	
+}
+
+div.geo {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 0px 10px 10px 10px;
+}
+
+div.trig {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 0px 10px 10px 10px;
+}
+
+div.calI {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 0px 10px 10px 10px;
+}
+
+div.calII {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 0px 10px 10px 10px;
+} 
+
+a:link.index, a:visited.index {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;
+}
+
+a:hover.geo, a:active.geo {
+	background-color: #5BA0E8;
+}
+
+a:hover.trig, a:active.trig {
+	background-color: #5DFF5A;
+}
+
+a:hover.calI, a:active.calI {
+	background-color: #FF614E;
+}
+
+a:hover.calII, a:active.calII {
+	background-color: #FF9640;
+}
+
+a:link.calIIpg, a:visited.calIIpg {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;
+	background-color: #FF7E00;
+}
+
+a:link.calIpg, a:visited.calIpg {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;
+	background-color: #f44336;
+}
+
+a:link.trigpg, a:visited.trigpg {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;
+	background-color: #1EFF11;
+}
+
+a:link.geopg, a:visited.geopg {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;
+	background-color: #1C75E8;
+}
+
+div.HF, div.ITF, div.SAR, div.AL, div.PRF, div.EF {
+	margin-bottom: 30px;
+	margin-top: 30px;
+	text-align: center;
+	padding: 0px 10px 10px 10px;
+}
+
+a.HF, a.ITF, a.SAR, a.AL, a.PRF, a.EF {
+	color: white;
+	text-decoration: none;
+	text-align: center;
+	padding: 10px 10px 10px 5px;	
+}
